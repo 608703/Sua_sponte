@@ -2,127 +2,141 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8dd70cb-92df-4824-a814-bd26eb4ede78" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0215live.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0216_연습문제/1209.py" beforeDir="false" afterPath="$PROJECT_DIR$/0216_연습문제/1209.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0216_연습문제/1210.py" beforeDir="false" afterPath="$PROJECT_DIR$/0216_연습문제/1210.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0216_연습문제/1210.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0216_연습문제/1210.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0216_연습문제/4836.py" beforeDir="false" afterPath="$PROJECT_DIR$/0216_연습문제/4836.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0216_연습문제/4836.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0216_연습문제/4836.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0216_연습문제/4837.py" beforeDir="false" afterPath="$PROJECT_DIR$/0216_연습문제/4837.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0216_연습문제/4837.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0216_연습문제/4837.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0216_연습문제/4839.py" beforeDir="false" afterPath="$PROJECT_DIR$/0216_연습문제/4839.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0216_연습문제/4839.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0216_연습문제/4839.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0216_연습문제/4843.py" beforeDir="false" afterPath="$PROJECT_DIR$/0216_연습문제/4843.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0216_연습문제/4843.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0216_연습문제/4843.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/1210.Ladder1.py" beforeDir="false" afterPath="$PROJECT_DIR$/0218/1210.Ladder1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/1210.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0218/1210.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/1216.py" beforeDir="false" afterPath="$PROJECT_DIR$/0218/1216.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/1216.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0218/1216.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/1221.GNS.py" beforeDir="false" afterPath="$PROJECT_DIR$/0218/1221.GNS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/1221.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0218/1221.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/1661.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/1661.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/4836.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0218/4836.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/4836.색칠하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/0218/4836.색칠하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/4837.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0218/4837.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/4837.부분집합의 합.py" beforeDir="false" afterPath="$PROJECT_DIR$/0218/4837.부분집합의 합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/4839.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0218/4839.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/4839.이진탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/0218/4839.이진탐색.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/4843.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0218/4843.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/4843.특별한 정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/0218/4843.특별한 정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/4861.py" beforeDir="false" afterPath="$PROJECT_DIR$/0218/4861.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/4861.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0218/4861.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/4864.py" beforeDir="false" afterPath="$PROJECT_DIR$/0218/4864.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/4864.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0218/4864.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/4865.py" beforeDir="false" afterPath="$PROJECT_DIR$/0218/4865.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/4865.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0218/4865.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0218/Alone.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0219/1979.py" beforeDir="false" afterPath="$PROJECT_DIR$/0219/1979.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0219/5356.py" beforeDir="false" afterPath="$PROJECT_DIR$/0219/5356.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0219/5356.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0219/5356.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0219/5356.의석이세로로말해요.py" beforeDir="false" afterPath="$PROJECT_DIR$/0219/5356.의석이세로로말해요.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0219/글자수.py" beforeDir="false" afterPath="$PROJECT_DIR$/0219/글자수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0219/문자열비교.py" beforeDir="false" afterPath="$PROJECT_DIR$/0219/문자열비교.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0219/회문.py" beforeDir="false" afterPath="$PROJECT_DIR$/0219/회문.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0219/회문2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0219/회문2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0222 stack/4873.py" beforeDir="false" afterPath="$PROJECT_DIR$/0222 stack/4873.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0222 stack/4873.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0222 stack/4873.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0222stack/4866.py" beforeDir="false" afterPath="$PROJECT_DIR$/0222stack/4866.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0222stack/4866.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0222stack/4866.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0222stack/4869.py" beforeDir="false" afterPath="$PROJECT_DIR$/0222stack/4869.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0222stack/4869.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0222stack/4869.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0222stack/파스칼삼격형.py" beforeDir="false" afterPath="$PROJECT_DIR$/0222stack/파스칼삼격형.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0224 백트래킹/1223.py" beforeDir="false" afterPath="$PROJECT_DIR$/0224 백트래킹/1223.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0224 백트래킹/1223.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0224 백트래킹/1223.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0225/1859.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0225/1859.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0225/1860 진기 붕어빵.py" beforeDir="false" afterPath="$PROJECT_DIR$/0225/1860 진기 붕어빵.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0225/1860.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0225/1860.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0225/1860.ㅅㅌㅅ" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0225/1974 스도쿠.py" beforeDir="false" afterPath="$PROJECT_DIR$/0225/1974 스도쿠.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0225/1974.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0225/1974.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0225/4408 자기 방으로.py" beforeDir="false" afterPath="$PROJECT_DIR$/0225/4408 자기 방으로.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0225/4408.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0225/4408.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0225/4615 오셀로.py" beforeDir="false" afterPath="$PROJECT_DIR$/0225/4615 오셀로.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0225/4615.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0225/4615.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0225/5789 현주의 상자 바꾸기.py" beforeDir="false" afterPath="$PROJECT_DIR$/0225/5789 현주의 상자 바꾸기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0225/5789.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0225/5789.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0302/1224 계산기3.py" beforeDir="false" afterPath="$PROJECT_DIR$/0302/1224 계산기3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0302/1224.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0302/1224.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0303queue/1225 암호생성기.py" beforeDir="false" afterPath="$PROJECT_DIR$/0303queue/1225 암호생성기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0303queue/1225.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0303queue/1225.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0304/1226 미로1.py" beforeDir="false" afterPath="$PROJECT_DIR$/0304/1226 미로1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0304/1226.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0304/1226.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0304/5097 회전.py" beforeDir="false" afterPath="$PROJECT_DIR$/0304/5097 회전.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0304/5097.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0304/5097.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0304/5099 피자.py" beforeDir="false" afterPath="$PROJECT_DIR$/0304/5099 피자.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0304/5099.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0304/5099.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0304/5102 노드의 거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/0304/5102 노드의 거리.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0304/5102.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0304/5102.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0304/5105 미로의 거리.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0304/5105.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0304/5105.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0304/노드의 거리.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0304/미로1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0304/미로의 거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/0304/미로의 거리.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0304/피자.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0305/1258 행렬찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/0305/1258 행렬찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0305/1258.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0305/1258.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1208.py" beforeDir="false" afterPath="$PROJECT_DIR$/1208.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1208.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1208.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1209.py" beforeDir="false" afterPath="$PROJECT_DIR$/1209.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1209.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1209.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/123.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/123.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1234.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1959.py" beforeDir="false" afterPath="$PROJECT_DIR$/1959.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1959.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1959.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1986.py" beforeDir="false" afterPath="$PROJECT_DIR$/1986.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1986.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1986.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/파리퇴치.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/파리퇴치.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/파리퇴치.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/파리퇴치.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2072.py" beforeDir="false" afterPath="$PROJECT_DIR$/2072.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2072.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2072.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/369.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/369.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alon.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flatten.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flatten.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flatten.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Flatten.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/min max.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/try.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/날짜계산기.py" beforeDir="false" afterPath="$PROJECT_DIR$/날짜계산기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/날짜계산기.txt" beforeDir="false" afterPath="$PROJECT_DIR$/날짜계산기.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/빌드테스트.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/숫자를정렬하자.py" beforeDir="false" afterPath="$PROJECT_DIR$/숫자를정렬하자.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/숫자를정렬하자.txt" beforeDir="false" afterPath="$PROJECT_DIR$/숫자를정렬하자.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/시험.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/시험.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/중간값찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/중간값찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/중간값찾기.txt" beforeDir="false" afterPath="$PROJECT_DIR$/중간값찾기.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/최빈수구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/최빈수구하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/최빈수구하기.txt" beforeDir="false" afterPath="$PROJECT_DIR$/최빈수구하기.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0215_list2/4834.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0215_list2/4834.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0215_list2/4835.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0215_list2/4835.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0216_연습문제/1209.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0216_연습문제/1209.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0216_연습문제/1210.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0216_연습문제/1210.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0216_연습문제/4836.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0216_연습문제/4836.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0216_연습문제/4837.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0216_연습문제/4837.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0216_연습문제/4839.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0216_연습문제/4839.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0216_연습문제/4843.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0216_연습문제/4843.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0217/Alone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0217/Alone.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/1210.Ladder1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/1210.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/1216.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/1216.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/1221.GNS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/1221.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/4836.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/4836.색칠하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/4837.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/4837.부분집합의 합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/4839.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/4839.이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/4843.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/4843.특별한 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/4861.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/4861.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/4864.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/4864.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/4865.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0218/4865.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0219/1979.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0219/5356.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0219/5356.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0219/5356.의석이세로로말해요.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0219/글자수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0219/문자열비교.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0219/회문.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0219/회문2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0219/회문2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222 stack/4873.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222 stack/4873.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222stack/4866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222stack/4866.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222stack/4869.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222stack/4869.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222stack/파스칼삼각형.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222stack/파스칼삼격형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1206.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1206.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1208.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1208.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1209.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1209.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1219.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1219.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1223.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1223.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1224.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1224.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1258.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1258.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1926.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1926.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1933.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1933.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1936.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1936.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1938.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1938.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1959.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1959.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1976.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1976.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1979.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1979.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1983.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1983.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1984.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1984.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1986.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1986.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1989.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1989.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2007.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2007.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2029.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2029.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2043.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2043.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2046.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2046.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2047.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2047.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2050.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2050.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2056.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2056.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2058.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2058.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2068.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2068.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2070.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2070.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2071.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2071.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2072.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2072.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4835.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4873.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4873.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alg01_구미_2반_이승균.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alg02_구미_2반_이승균.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alone.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flatten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flatten.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/날짜계산기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/날짜계산기.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/숫자를정렬하자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/숫자를정렬하자.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/중간값찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/중간값찾기.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/최빈수구하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/최빈수구하기.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,15 +169,15 @@
     <session id="-1443311636">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="119" />
+          <entry key="py" value="120" />
           <entry key="txt" value="79" />
           <entry key="ㅅㅌㅅ" value="1" />
         </counts>
@@ -171,7 +185,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="80" />
-          <entry key="Python" value="119" />
+          <entry key="Python" value="120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -189,7 +203,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -259,8 +273,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="353" />
-    <option name="y" value="43" />
+    <option name="x" value="137" />
+    <option name="y" value="62" />
     <option name="width" value="1500" />
     <option name="height" value="970" />
   </component>
@@ -272,6 +286,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -283,7 +298,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -392,7 +406,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="283" y="35" width="1200" height="776" extended-state="0" />
+    <frame x="110" y="50" width="1200" height="776" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988399" visible="true" weight="0.21066208" />
       <window_info id="Structure" order="1" sideWeight="0.5011601" side_tool="true" weight="0.216681" />
@@ -417,20 +431,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0216_연습문제/1210.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="991" column="68" selection-start-line="14" selection-start-column="4" selection-end-line="991" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0218/4864.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0218/4864.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -494,12 +494,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/369.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1234.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/369.py" />
+    <entry file="file://$PROJECT_DIR$/1234.py" />
     <entry file="file://$PROJECT_DIR$/1209.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
@@ -619,9 +615,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0218/1661.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/0218/1661.py" />
     <entry file="file://$PROJECT_DIR$/0218/4861.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="447">
@@ -732,6 +726,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0305/4613 러시아.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/날짜계산기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1206.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
