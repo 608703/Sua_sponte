@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8dd70cb-92df-4824-a814-bd26eb4ede78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0216_연습문제/1209.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0216_연습문제/1209.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0216_연습문제/1210.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0216_연습문제/1210.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0216_연습문제/4836.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0216_연습문제/4836.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0216_연습문제/4837.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0216_연습문제/4837.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0216_연습문제/4839.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0216_연습문제/4839.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0216_연습문제/4843.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0216_연습문제/4843.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/1210.Ladder1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/1210.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/1216.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/1216.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/1221.GNS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/1221.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/4836.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/4836.색칠하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/4837.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/4837.부분집합의 합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/4839.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/4839.이진탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/4843.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/4843.특별한 정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/4861.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/4861.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/4864.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/4864.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/4865.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0218/4865.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0219/1979.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0219/1979.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0219/5356.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0219/5356.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0219/글자수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0219/문자열비교.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0219/회문.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0219/회문2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0222 stack/4873.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0222 stack/4873.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0222stack/4866.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0222stack/4866.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0222stack/4869.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0222stack/4869.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0222stack/파스칼삼격형.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0224 백트래킹/1223.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0224 백트래킹/1223.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0225/1859.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0225/1860 진기 붕어빵.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0225/1860.ㅅㅌㅅ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0225/1974 스도쿠.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0225/1974.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0225/4408 자기 방으로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0225/4408.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0225/4615 오셀로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0225/4615.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0225/5789 현주의 상자 바꾸기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0225/5789.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0302/1224 계산기3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0302/1224.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0303queue/1225 암호생성기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0303queue/1225.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0304/1226 미로1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0304/1226.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0304/5097 회전.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0304/5097.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0304/5099 피자.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0304/5099.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0304/5102 노드의 거리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0304/5102.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0304/5105.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0305/1258 행렬찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0305/1258.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2017/1221.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2017/1221.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2017/파리퇴치.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2017/파리퇴치.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/.idea/Algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0203 백트래킹/powerset.py" beforeDir="false" afterPath="$PROJECT_DIR$/0302 백트래킹/powerset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0203 백트래킹/powerset_재귀.py" beforeDir="false" afterPath="$PROJECT_DIR$/0302 백트래킹/powerset_재귀.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0203 백트래킹/후위표기법 연습문제.py" beforeDir="false" afterPath="$PROJECT_DIR$/0302 백트래킹/후위표기법 연습문제.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0215_list2/연습문제2_subset.py" beforeDir="false" afterPath="$PROJECT_DIR$/0215_list2/연습문제2_subset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0215_list2/연습문제_1 delta.py" beforeDir="false" afterPath="$PROJECT_DIR$/0215_list2/연습문제_1 delta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0215live.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0216_연습문제/1209.py" beforeDir="false" afterPath="$PROJECT_DIR$/0305/5215 햄버거.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0216_연습문제/1210.py" beforeDir="false" afterPath="$PROJECT_DIR$/0305/5215.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0216_연습문제/1210.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0216_연습문제/4836.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0216_연습문제/4836.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0216_연습문제/4837.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0216_연습문제/4837.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0216_연습문제/4839.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0216_연습문제/4839.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0216_연습문제/4843.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0216_연습문제/4843.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0217/Alone.py" beforeDir="false" afterPath="$PROJECT_DIR$/0217/Alone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0217/Alone.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0217/Alone.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/1210.Ladder1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/1210.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/1216.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/1216.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/1221.GNS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/1221.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/1661.py" beforeDir="false" afterPath="$PROJECT_DIR$/0218/1661.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/1661.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0218/1661.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/4836.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/4836.색칠하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/4837.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/4837.부분집합의 합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/4839.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/4839.이진탐색.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/4843.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/4843.특별한 정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/4861.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/4861.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/4864.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/4864.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/4865.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0218/4865.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0219/1979.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0219/5356.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0219/5356.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0219/5356.의석이세로로말해요.py" beforeDir="false" afterPath="$PROJECT_DIR$/0219/5356.의석이세로로말해요.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0219/5432.쇠막대기자르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/0219/5432.쇠막대기자르기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0219/글자수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0219/문자열비교.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0219/회문.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0219/회문2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0222 stack/4871.py" beforeDir="false" afterPath="$PROJECT_DIR$/0222 stack/4871.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0222 stack/4871.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0222 stack/4871.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0222 stack/4873.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0222 stack/4873.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0222stack/4866.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0222stack/4866.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0222stack/4869.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0222stack/4869.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0222stack/파스칼삼격형.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0224 백트래킹/1223.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0224 백트래킹/1223.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0225/1859 백만장자.py" beforeDir="false" afterPath="$PROJECT_DIR$/0225/1859 백만장자.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0225/1859.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0225/1860 진기 붕어빵.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0225/1860.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0225/1860.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0225/1860.ㅅㅌㅅ" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0225/1974 스도쿠.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0225/1974.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0225/4408 자기 방으로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0225/4408.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0225/4615 오셀로.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0225/4615.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0225/5789 현주의 상자 바꾸기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0225/5789.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0302/1224 계산기3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0302/1224.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0302/4874 forth.py" beforeDir="false" afterPath="$PROJECT_DIR$/0302/4874 forth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0302/4874.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0302/4874.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0302/4875 미로.py" beforeDir="false" afterPath="$PROJECT_DIR$/0302/4875 미로.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0302/4875.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0302/4875.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0303queue/1225 암호생성기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0303queue/1225.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0304/1226 미로1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0304/1226.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0304/5097 회전.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0304/5097.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0304/5099 피자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0304/5099.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0304/5102 노드의 거리.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0304/5102.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0304/5105 미로의 거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/0304/5105 미로의 거리.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0304/5105.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0304/노드의 거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/0304/노드의 거리.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0304/미로1.py" beforeDir="false" afterPath="$PROJECT_DIR$/0304/미로1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0304/미로의 거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/0304/미로의 거리.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0304/피자.py" beforeDir="false" afterPath="$PROJECT_DIR$/0304/피자.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0305/1258 행렬찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0305/1258.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0305/4613 러시아.py" beforeDir="false" afterPath="$PROJECT_DIR$/0305/4613 러시아.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0305/4613.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0305/4613.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0305/러시아 국기.py" beforeDir="false" afterPath="$PROJECT_DIR$/0305/러시아 국기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/0305/행렬찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/0305/행렬찾기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/1209.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/1209.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/123.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/1959.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/1959.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/1986.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/1986.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/2017/1221.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/2017/1221.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/2017/prc.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/prc.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/2017/prc.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/prc.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/2017/문자사각형1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/문자사각형1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/2017/문자사각형2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/문자사각형2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/2017/문자삼각형.py" beforeDir="false" afterPath="$PROJECT_DIR$/2017/문자삼각형.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/2017/파리퇴치.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/2017/파리퇴치.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/2072.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/2072.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/4835.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/Alg01_구미_2반_이승균.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/Alg02_구미_2반_이승균.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/Alon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/Alone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/Flatten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/Flatten.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/min max.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/날짜계산기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/날짜계산기.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/델타.py" beforeDir="false" afterPath="$PROJECT_DIR$/델타.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/버블.py" beforeDir="false" afterPath="$PROJECT_DIR$/버블.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/부분집합.py" beforeDir="false" afterPath="$PROJECT_DIR$/부분집합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/빌드테스트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/선택정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/선택정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/선택정렬1.py" beforeDir="false" afterPath="$PROJECT_DIR$/선택정렬1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/순차검색.py" beforeDir="false" afterPath="$PROJECT_DIR$/순차검색.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/숫자를정렬하자.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/숫자를정렬하자.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/시험.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/시험.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/중간값찾기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/중간값찾기.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/최빈수구하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo/최빈수구하기.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0219/회문설명.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0219/회문설명2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222stack/DFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222stack/stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222stack/팩토리얼.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0222stack/피보나치.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0224 백트래킹/거듭제곱.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0224 백트래킹/순열 비트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0224 백트래킹/순열 스왑.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0224 백트래킹/순열 재귀.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0303queue/bfs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0303queue/myQueue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0303queue/마이쮸우.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0303queue/이차원 배열에서의 bfs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1208.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1208.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1234.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/369.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/369.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alone.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/try.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="988509776">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="20" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="20" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1443311636">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1255809603">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="79" />
+          <entry key="txt" value="63" />
+          <entry key="ㅅㅌㅅ" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="64" />
+          <entry key="Python" value="79" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0219/회문.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/0304/1226 미로1.py" />
+        <option value="$PROJECT_DIR$/0304/1226.txt" />
+        <option value="$PROJECT_DIR$/0304/5097 회전.py" />
+        <option value="$PROJECT_DIR$/0304/5097.txt" />
+        <option value="$PROJECT_DIR$/0304/5105.txt" />
+        <option value="$PROJECT_DIR$/0304/5099 피자.py" />
+        <option value="$PROJECT_DIR$/0304/5099.txt" />
+        <option value="$PROJECT_DIR$/0304/5102 노드의 거리.py" />
+        <option value="$PROJECT_DIR$/0304/5102.txt" />
+        <option value="$PROJECT_DIR$/0305/1258 행렬찾기.py" />
+        <option value="$PROJECT_DIR$/0305/1258.txt" />
+        <option value="$PROJECT_DIR$/2017/1221.py" />
+        <option value="$PROJECT_DIR$/2017/1221.txt" />
+        <option value="$PROJECT_DIR$/2017/파리퇴치.py" />
+        <option value="$PROJECT_DIR$/2017/파리퇴치.txt" />
+        <option value="$PROJECT_DIR$/Flatten.py" />
+        <option value="$PROJECT_DIR$/Flatten.txt" />
+        <option value="$PROJECT_DIR$/1206.py" />
+        <option value="$PROJECT_DIR$/1206.txt" />
+        <option value="$PROJECT_DIR$/1209.py" />
+        <option value="$PROJECT_DIR$/1209.txt" />
+        <option value="$PROJECT_DIR$/0305/5215 햄버거.py" />
+        <option value="$PROJECT_DIR$/1959.py" />
+        <option value="$PROJECT_DIR$/1959.txt" />
+        <option value="$PROJECT_DIR$/1986.py" />
+        <option value="$PROJECT_DIR$/1986.txt" />
+        <option value="$PROJECT_DIR$/2072.py" />
+        <option value="$PROJECT_DIR$/2072.txt" />
+        <option value="$PROJECT_DIR$/날짜계산기.py" />
+        <option value="$PROJECT_DIR$/날짜계산기.txt" />
+        <option value="$PROJECT_DIR$/숫자를정렬하자.py" />
+        <option value="$PROJECT_DIR$/숫자를정렬하자.txt" />
+        <option value="$PROJECT_DIR$/최빈수구하기.py" />
+        <option value="$PROJECT_DIR$/최빈수구하기.txt" />
+        <option value="$PROJECT_DIR$/중간값찾기.py" />
+        <option value="$PROJECT_DIR$/중간값찾기.txt" />
+        <option value="$PROJECT_DIR$/2007.py" />
+        <option value="$PROJECT_DIR$/2007.txt" />
+        <option value="$PROJECT_DIR$/1989.py" />
+        <option value="$PROJECT_DIR$/1989.txt" />
+        <option value="$PROJECT_DIR$/1984.py" />
+        <option value="$PROJECT_DIR$/1984.txt" />
+        <option value="$PROJECT_DIR$/1983.py" />
+        <option value="$PROJECT_DIR$/1983.txt" />
+        <option value="$PROJECT_DIR$/19979.py" />
+        <option value="$PROJECT_DIR$/1979.py" />
+        <option value="$PROJECT_DIR$/1979.txt" />
+        <option value="$PROJECT_DIR$/1976.py" />
+        <option value="$PROJECT_DIR$/1976.txt" />
+        <option value="$PROJECT_DIR$/2056.py" />
+        <option value="$PROJECT_DIR$/2056.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="235" />
+    <option name="y" value="5" />
+    <option name="width" value="1500" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Mine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mine" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8dd70cb-92df-4824-a814-bd26eb4ede78" name="Default Changelist" comment="" />
+      <created>1616150852585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616150852585</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="188" y="4" width="1200" height="776" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24935512" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24935512" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2017/1221.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/1221.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/파리퇴치.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017/파리퇴치.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/min max.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1206.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1206.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1208.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1209.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="1010" selection-start-line="1010" selection-end-line="1010" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0305/5215 햄버거.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0305/5215.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1209.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1219.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1219.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="892" lean-forward="true" selection-start-line="19" selection-start-column="892" selection-end-line="19" selection-end-column="892" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1234.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1959.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1986.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1986.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2072.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2072.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4834.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4834.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4835.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4835.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flatten.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flatten.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/날짜계산기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/날짜계산기.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/숫자를정렬하자.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/숫자를정렬하자.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/최빈수구하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/최빈수구하기.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/중간값찾기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/중간값찾기.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2007.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2007.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1989.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1989.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1984.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1984.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19979.py" />
+    <entry file="file://$PROJECT_DIR$/1983.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1983.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10659">
+          <caret line="561" lean-forward="true" selection-start-line="561" selection-end-line="561" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1979.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1979.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2109">
+          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1976.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1959.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2056.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1976.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2056.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0219/회문.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
